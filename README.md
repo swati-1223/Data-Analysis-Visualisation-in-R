@@ -1,2 +1,2 @@
 # DataScience
-Various Applications of Data Science in the Digital Space
+Various Applications of Data Science in the Digital and Consumer Analytics Space
